@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ListViewCall</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	
+    <string-array name="names">
+    	<item>Alpha</item>
+    	<item>Bravo</item>
+    	<item>Charlie</item>
+    	<item>Echo</item>
+    	<item>Foxtrot</item>
+    	<item>Golf</item>    
+	
+    </string-array>
+</resources>
